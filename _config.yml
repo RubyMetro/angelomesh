@@ -10,6 +10,6 @@ title:            Angelo Mesh
 tagline:          'A Meshtastic group'
 description:      'A group of radio enthusiasts bringing decentralized communication to San Angelo.'
 url:              http://angelomesh.com
-baseurl:          /
+baseurl:          /angelomesh
 
 paginate:         5
