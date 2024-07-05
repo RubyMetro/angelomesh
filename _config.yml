@@ -13,5 +13,3 @@ url:              http://angelomesh.com
 baseurl:          /
 
 paginate:         5
-
-root: /public
