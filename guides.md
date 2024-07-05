@@ -11,4 +11,4 @@ On this page you will find several guides that we have prepared for you to use i
 ---
 
 ## [getting started](/guides/getting-started)
-this guide will help you to get started on buying/building your very first radio, including a step by step guide on how to set up a RAK4631.
+this guide will help you to get started on buying/building your very first radio, including a step by step guide on how to set up a RAK4631 and pair it with the meshtastic app on iOS.
