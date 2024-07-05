@@ -78,4 +78,4 @@ The above steps work the exact same way on macOS and iPadOS as well. Alternative
 
 ---
 ## Conclusion
-Congratulations! You just set up your first Meshtastic enabled radio. You are now helping the resiliance of the mesh network here in San Angelo.
+Congratulations! You just set up your first Meshtastic enabled radio. You are now helping the resiliance of the mesh network here in San Angelo. If you need any help configuring your radio, consider joining the [Discord server.](https://discord.gg/Kw53pzwyuQ)
