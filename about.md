@@ -29,4 +29,4 @@ currently there are a few dozen nodes spread around san angelo, most of which ar
 
 5. No license required. Because meshtastic operates on the ISM band, anyone can use it, and you do not need to have an amateur radio license to transmit. This is also what makes meshtastic private.
 
-This website was build with [Jekyll](jekyllrb.com) and is hosted on [Github Pages](https://pages.github.com)
+This website was build with [Jekyll](jekyllrb.com) and is hosted on [Github Pages.](https://pages.github.com) Made using the [Hyde](https://github.com/poole/hyde) theme. You can look at the source code for this website [here](https://github.com/rubymetro/angelomesh)
