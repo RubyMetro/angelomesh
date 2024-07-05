@@ -80,7 +80,7 @@ a {
   text-decoration: none;
 }
 a strong {
-  color: inherit;
+  color: #ffffff;
 }
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
