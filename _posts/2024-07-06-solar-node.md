@@ -12,4 +12,4 @@ Rokland now sells a solar enclosure for WisBlock nodes from RAK, with a bigger s
 
 [Enclosure overview](https://youtu.be/d2vQ87Th8DI?si=-FTziUbBsxdgevP0)
 
-[Solar node built tutorial](https://www.youtube.com/watch?v=vdCKpQKeaKU)
+[Solar node build tutorial](https://www.youtube.com/watch?v=vdCKpQKeaKU)
