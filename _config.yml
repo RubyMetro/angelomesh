@@ -8,6 +8,10 @@ baseurl:          /
 # Permalinks
 permalink:        pretty
 
+author:
+  name:           'Christian Thompson'
+  email:          'luca@urbanforest.dev'
+
 # Setup
 title:            'Angelo Mesh'
 tagline:          'A Meshtastic group'
